@@ -3,8 +3,8 @@
 ###simulate original TabLayout by simple LinearLayout,resolve the problem that TabLayout cannot catch focus.also can synchronize the page changing of ViewPager.
 
 
-本Demo适合用在TV端app中，demo演示了如何与ViewPager交互。
-This Demo is suited to use in Android Tv App,it shows how to interactive with ViewPager.
+Demo演示了如何与ViewPager交互。
+This Demo shows how to interactive with ViewPager.
 
 同时支持鼠标点击和tv焦点移动
 Both support finger touch and tv focus movement.
