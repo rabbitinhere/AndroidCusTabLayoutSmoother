@@ -6,5 +6,7 @@
 本Demo适合用在TV端app中，demo演示了如何与ViewPager交互。
 This Demo is suited to use in Android Tv App,it shows how to interactive with ViewPager.
 
+同时支持鼠标点击和tv焦点移动
+Both support finger touch and tv focus movement.
 
 ![image](https://github.com/rabbitinhere/AndroidCusTabLayoutSmoother/raw/master/preview_gif.gif)
